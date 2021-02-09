@@ -1,5 +1,5 @@
-# API-with-Python_IBM-course
+# API-with-Python_IBM
 Simple explanation of how to use API 
 
 
-following the Data Science Course from IBM
+taken from IBM Data Science Specialization course
